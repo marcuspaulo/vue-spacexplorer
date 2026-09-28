@@ -1,0 +1,9 @@
+node_modules
+# Ignore artifacts:
+build
+dist
+coverage
+src/components/ui
+test-results
+playwright-report
+blob-report
